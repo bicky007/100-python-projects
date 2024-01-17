@@ -16,17 +16,17 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 
 
 ## 🔰 Beginner 
-- [Day 1:] Working with Variables in Python to Manage Data
-- [Day 2:] Understanding Data Types and How to Manipulate Strings
-- [Day 3:] Control Flow and Logical Operators
-- [Day 4:] Randomisation and Python Lists
-- [Day 5:] Python Loops
-- [Day 6:] Python Functions & Karel
-- [Day 7:] Hangman
-- [Day 8:] Function Parameters & Caesar Cipher
-- [Day 9:] Dictionaries, Nesting and the Secret Auction
-- [Day 10:] Functions with Outputs
-- [Day 11:] The Blackjack Capstone Project
+- [Project 1:] Working with Variables in Python to Manage Data
+- [Project 2:] Understanding Data Types and How to Manipulate Strings
+- [Project 3:] Control Flow and Logical Operators
+- [Project 4:] Randomisation and Python Lists
+- [Project 5:] Python Loops
+- [Project 6:] Python Functions & Karel
+- [Project 7:] Hangman
+- [Project 8:] Function Parameters & Caesar Cipher
+- [Project 9:] Dictionaries, Nesting and the Secret Auction
+- [Project 10:] Functions with Outputs
+- [Project 11:] The Blackjack Capstone Project
 
 
 
