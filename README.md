@@ -4,30 +4,23 @@
 </h1>
 
 
-
-
-
-
-
-
 ![100-days-of-code](https://github.com/bicky007/100-python-projects/assets/128511616/472fbc68-3ab4-43d5-9979-a11ae0dc0e71)
 
 Most projects ideas come from the Udemy course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
 
 
 ## 🔰 Beginner 
-- [Project 1:] (Brand name generator) Working with Variables in Python to Manage Data
-- [Project 2:] (Tip Calculator) Understanding Data Types and How to Manipulate Strings
-- [Project 3:] Control Flow and Logical Operators
-- [Project 4:] Randomisation and Python Lists
-- [Project 5:] Python Loops
-- [Project 6:] Python Functions & Karel
-- [Project 7:] Hangman
-- [Project 8:] Function Parameters & Caesar Cipher
-- [Project 9:] Dictionaries, Nesting and the Secret Auction
-- [Project 10:] Functions with Outputs
-- [Project 11:] The Blackjack Capstone Project
-
+- [Brand name generator](https://github.com/bicky007/100-python-projects/tree/main/Brand%20name%20generator)
+- [Tip Calculator](https://github.com/bicky007/100-python-projects/tree/main/Tip%20calculator)
+- [Blackjack game](https://github.com/bicky007/100-python-projects/tree/main/Blackjack%20game)  
+- [Caeser cipher](https://github.com/bicky007/100-python-projects/tree/main/Caesar%20%20cipher) 
+- [Calculator](https://github.com/bicky007/100-python-projects/tree/main/Calculator) 
+- [Escape the maze](https://github.com/bicky007/100-python-projects/tree/main/Escape%20the%20maze) 
+- [Hangman](https://github.com/bicky007/100-python-projects/tree/main/Hangman)
+- [Password generator](https://github.com/bicky007/100-python-projects/tree/main/Password%20generator) 
+- [Rock paper scissor](https://github.com/bicky007/100-python-projects/tree/main/Rock%20Paper%20Scissor) 
+- [The secret auction program](https://github.com/bicky007/100-python-projects/tree/main/The%20secret%20auction%20program) 
+- [Treasure Island](https://github.com/bicky007/100-python-projects/tree/main/Treasure%20Island) 
 
 
 
