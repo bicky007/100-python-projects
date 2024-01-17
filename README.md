@@ -17,7 +17,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 
 ## 🔰 Beginner 
 - [Project 1:] (Brand name generator) Working with Variables in Python to Manage Data
-- [Project 2:] Understanding Data Types and How to Manipulate Strings
+- [Project 2:] (Tip Calculator) Understanding Data Types and How to Manipulate Strings
 - [Project 3:] Control Flow and Logical Operators
 - [Project 4:] Randomisation and Python Lists
 - [Project 5:] Python Loops
