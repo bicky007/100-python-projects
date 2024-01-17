@@ -20,7 +20,8 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Password generator](https://github.com/bicky007/100-python-projects/tree/main/Password%20generator) 
 - [Rock paper scissor](https://github.com/bicky007/100-python-projects/tree/main/Rock%20Paper%20Scissor) 
 - [The secret auction program](https://github.com/bicky007/100-python-projects/tree/main/The%20secret%20auction%20program) 
-- [Treasure Island](https://github.com/bicky007/100-python-projects/tree/main/Treasure%20Island) 
+- [Treasure Island](https://github.com/bicky007/100-python-projects/tree/main/Treasure%20Island)
+- [Guess the number](https://github.com/bicky007/100-python-projects/tree/main/Guess%20the%20number)
 
 
 
