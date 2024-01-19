@@ -22,6 +22,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [The secret auction program](https://github.com/bicky007/100-python-projects/tree/main/The%20secret%20auction%20program) 
 - [Treasure Island](https://github.com/bicky007/100-python-projects/tree/main/Treasure%20Island)
 - [Guess the number](https://github.com/bicky007/100-python-projects/tree/main/Guess%20the%20number)
+- [Beginner Debugging](https://github.com/bicky007/100-python-projects/tree/main/Beginner-Debugging).
 
 
 
