@@ -23,6 +23,10 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Treasure Island](https://github.com/bicky007/100-python-projects/tree/main/Treasure%20Island)
 - [Guess the number](https://github.com/bicky007/100-python-projects/tree/main/Guess%20the%20number)
 - [Beginner Debugging](https://github.com/bicky007/100-python-projects/tree/main/Beginner-Debugging)
+- [Higher Lower Game](https://github.com/bicky007/100-python-projects/tree/main/Higher%20Lower%20Game)
+  
+
+  ## 📚 Intermediate
 
 
 
