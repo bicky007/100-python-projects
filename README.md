@@ -29,6 +29,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
   ## 📚 Intermediate
 - [Coffee Machine](https://github.com/bicky007/100-python-projects/tree/main/Coffee%20Machine)
 - [Coffee Machine(OOP)](https://github.com/bicky007/100-python-projects/tree/main/Coffee%20Machine%20(OOP))
+- [Quiz Project](https://github.com/bicky007/100-python-projects/tree/main/Quiz%20Project)
 
 
 
