@@ -34,7 +34,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 
 
 
-## ⚙ Tools and Technologies will be Covere during project creation
+## ⚙ Tools and Technologies will be Cover during project creation
 - Python 3
 - PyCharm, Jupyter Notebook, Google Colab
 - Python Scripting and Automation
