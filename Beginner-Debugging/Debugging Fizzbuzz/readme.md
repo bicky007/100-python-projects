@@ -6,6 +6,7 @@
 - No shortcuts - don't copy-paste to replace the code entirely with a working solution.
 - The code needs to print the solution to the FizzBuzz game.
 
+
 Your program should print each number from 1 to 100 in turn.
 
 When the number is divisible by 3 then instead of printing the number it should print "Fizz".
