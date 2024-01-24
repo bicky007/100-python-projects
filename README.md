@@ -31,6 +31,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Coffee Machine(OOP)](https://github.com/bicky007/100-python-projects/tree/main/Coffee%20Machine%20(OOP))
 - [Quiz Project](https://github.com/bicky007/100-python-projects/tree/main/Quiz%20Project)
 - [The Hirst Painting](https://github.com/bicky007/100-python-projects/tree/main/The%20Hirst%20Painting)
+- [Turtle Race](https://github.com/bicky007/100-python-projects/tree/main/Turtle%20Race)
 
 
 
