@@ -33,6 +33,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [The Hirst Painting](https://github.com/bicky007/100-python-projects/tree/main/The%20Hirst%20Painting)
 - [Turtle Race](https://github.com/bicky007/100-python-projects/tree/main/Turtle%20Race)
 - [Snake Game Part1](https://github.com/bicky007/100-python-projects/tree/main/Snake%20Game%20Part%201)
+- [Snake Game Part2](https://github.com/bicky007/100-python-projects/tree/main/Snake%20Game%20Part%202)
 
 
 
