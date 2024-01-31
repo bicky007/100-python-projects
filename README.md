@@ -37,6 +37,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Pong Game](https://github.com/bicky007/100-python-projects/tree/main/Pong%20Game)
 - [Turtle Crossing](https://github.com/bicky007/100-python-projects/tree/main/Turtle%20Crossing)
 - [Snake game & Mail merge](https://github.com/bicky007/100-python-projects/tree/main/Snake%20game%20%26%20Mail%20Merge)
+- [U.S State Game](https://github.com/bicky007/100-python-projects/tree/main/U.S.%20States%20Game)
 
 
 
