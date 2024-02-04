@@ -2,6 +2,7 @@
 ## Concepts Practised
 - Describing the Problem
 - Reproducing the Bug
+- Clear the issue
 - Playing Computer and Evaluating Each Line
 - Squashing bugs with a print() Statement
 - Using a Debugger
