@@ -39,6 +39,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Snake game & Mail merge](https://github.com/bicky007/100-python-projects/tree/main/Snake%20game%20%26%20Mail%20Merge)
 - [U.S State Game](https://github.com/bicky007/100-python-projects/tree/main/U.S.%20States%20Game)
 - [Nato Alphabet Project](https://github.com/bicky007/100-python-projects/tree/main/Nato%20Alphabet%20Project)
+- [Mile to KM Converter](https://github.com/bicky007/100-python-projects/tree/main/Miles%20to%20KM%20Converter)
 
 
 
