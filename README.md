@@ -42,6 +42,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Mile to KM Converter](https://github.com/bicky007/100-python-projects/tree/main/Miles%20to%20KM%20Converter)
 - [Pomodoro Timer](https://github.com/bicky007/100-python-projects/tree/main/Pomodoro%20Timer)
 - [Password Manager](https://github.com/bicky007/100-python-projects/tree/main/Password%20Manager)
+- [Password Manager 2.0](https://github.com/bicky007/100-python-projects/tree/main/Password%20Manager%202.0)
 
 
 
