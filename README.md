@@ -41,6 +41,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Nato Alphabet Project](https://github.com/bicky007/100-python-projects/tree/main/Nato%20Alphabet%20Project)
 - [Mile to KM Converter](https://github.com/bicky007/100-python-projects/tree/main/Miles%20to%20KM%20Converter)
 - [Pomodoro Timer](https://github.com/bicky007/100-python-projects/tree/main/Pomodoro%20Timer)
+- [Password Manager](https://github.com/bicky007/100-python-projects/tree/main/Password%20Manager)
 
 
 
