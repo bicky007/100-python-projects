@@ -3,6 +3,7 @@
 - Python Primitive Data Types
 - Type Error, Type Checking and Type Conversion
 - Data Types
+- Manage Variables
 - Mathematical Operations in Python
 - Number Manipulation and F Strings in Python
 ## Tip Calculator
