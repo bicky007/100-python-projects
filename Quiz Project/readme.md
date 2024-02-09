@@ -1,6 +1,7 @@
 # The Quiz Project & The Benefits of OOP
 ## Concepts Practised
 - How to create a Class in Python
+- Object oriented programing
 - Working with Attributes, Class Constructors and the __init__() Function
 - Adding Methods to a Class
 ## Quiz Project
