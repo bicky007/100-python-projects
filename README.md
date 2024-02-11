@@ -1,3 +1,4 @@
+
 # 100-python-projects
 
 <h1 align="center">100 Days of Code: The Complete Python Pro Bootcamp
@@ -43,6 +44,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Pomodoro Timer](https://github.com/bicky007/100-python-projects/tree/main/Pomodoro%20Timer)
 - [Password Manager](https://github.com/bicky007/100-python-projects/tree/main/Password%20Manager)
 - [Password Manager 2.0](https://github.com/bicky007/100-python-projects/tree/main/Password%20Manager%202.0)
+- [Flash Card App](https://github.com/bicky007/100-python-projects/tree/main/Flash%20Card%20App)
 
 
 
