@@ -51,6 +51,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Automated Birtday Wisher](https://github.com/bicky007/100-python-projects/tree/main/Automated%20Birthday%20Wisher)
 - [ISS Overhead Notifier](https://github.com/bicky007/100-python-projects/tree/main/ISS%20Overhead%20Notifier)
 - [GUI Quiz App](https://github.com/bicky007/100-python-projects/tree/main/GUI%20Quiz%20App)
+- [Rain Notifier](https://github.com/bicky007/100-python-projects/tree/main/Rain%20Notifier)
 
 ## ⚙ Tools and Technologies will be Cover during project creation
 - Python 3
