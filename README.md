@@ -53,6 +53,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [GUI Quiz App](https://github.com/bicky007/100-python-projects/tree/main/GUI%20Quiz%20App)
 - [Rain Notifier](https://github.com/bicky007/100-python-projects/tree/main/Rain%20Notifier)
 - [Stock Trading News Alert](https://github.com/bicky007/100-python-projects/tree/main/Stock%20Trading%20News%20Alert)
+- [Habit Tracking](https://github.com/bicky007/100-python-projects/blob/main/Habit%20Tracking/readme.md)
 
 ## ⚙ Tools and Technologies will be Cover during project creation
 - Python 3
