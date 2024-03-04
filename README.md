@@ -93,3 +93,6 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - Authentication
 - Web Design
 - Deployment with GitHub Pages, Heroku and GUnicorn
+
+
+## 100 python projects 😎
