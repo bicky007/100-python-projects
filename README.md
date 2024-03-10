@@ -56,6 +56,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Habit Tracking](https://github.com/bicky007/100-python-projects/blob/main/Habit%20Tracking/readme.md)
 - [Workout Tracking](https://github.com/bicky007/100-python-projects/tree/main/Workout%20Tracking)
 - [Flight Deal Finder](https://github.com/bicky007/100-python-projects/tree/main/Flight%20Deal%20Finder)
+- [Flight Club](https://github.com/bicky007/100-python-projects/tree/main/Flight%20Club)
 
 ## ⚙ Tools and Technologies will be Cover during project creation
 - Python 3
