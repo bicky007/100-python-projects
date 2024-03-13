@@ -58,6 +58,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Flight Deal Finder](https://github.com/bicky007/100-python-projects/tree/main/Flight%20Deal%20Finder)
 - [Flight Club](https://github.com/bicky007/100-python-projects/tree/main/Flight%20Club)
 - [Basic HTML Website](https://github.com/bicky007/100-python-projects/tree/main/Basic%20HTML%20Website)
+- [Basic HTML Website-2](https://github.com/bicky007/100-python-projects/tree/main/Basic%20HTML%20Website-2)
 
 ## ⚙ Tools and Technologies will be Cover during project creation
 - Python 3
