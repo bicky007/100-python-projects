@@ -62,6 +62,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Spanish Vocabulary](https://github.com/bicky007/100-python-projects/tree/main/Spanish%20Vocabulary)
 - [HTML Website using CSS](https://github.com/bicky007/100-python-projects/tree/main/HTML%20Website%20using%20CSS)
 - [Web Scraping](https://github.com/bicky007/100-python-projects/tree/main/Web%20Scraping)
+- [Music Time Machine](https://github.com/bicky007/100-python-projects/tree/main/Music%20Time%20Machine)
 
 ## ⚙ Tools and Technologies will be Cover during project creation
 - Python 3
