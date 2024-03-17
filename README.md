@@ -63,6 +63,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [HTML Website using CSS](https://github.com/bicky007/100-python-projects/tree/main/HTML%20Website%20using%20CSS)
 - [Web Scraping](https://github.com/bicky007/100-python-projects/tree/main/Web%20Scraping)
 - [Music Time Machine](https://github.com/bicky007/100-python-projects/tree/main/Music%20Time%20Machine)
+- [Amazon Price Tracker](https://github.com/bicky007/100-python-projects/tree/main/Amazon%20Price%20Tracker)
 
 ## ⚙ Tools and Technologies will be Cover during project creation
 - Python 3
