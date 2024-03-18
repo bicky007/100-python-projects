@@ -64,6 +64,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Web Scraping](https://github.com/bicky007/100-python-projects/tree/main/Web%20Scraping)
 - [Music Time Machine](https://github.com/bicky007/100-python-projects/tree/main/Music%20Time%20Machine)
 - [Amazon Price Tracker](https://github.com/bicky007/100-python-projects/tree/main/Amazon%20Price%20Tracker)
+- [Cookie Clicker Bot](https://github.com/bicky007/100-python-projects/tree/main/Cookie%20Clicker%20Bot)
 
 ## ⚙ Tools and Technologies will be Cover during project creation
 - Python 3
