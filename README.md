@@ -68,6 +68,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [linkedin Job Application Bot](https://github.com/bicky007/100-python-projects/tree/main/Linkedin%20Job%20Application%20Bot)
 - [Tinder Swiping Bot](https://github.com/bicky007/100-python-projects/tree/main/Tinder%20Swiping%20Bot)
 - [Internet Speed Twitter Complaint Bot](https://github.com/bicky007/100-python-projects/tree/main/Internet%20Speed%20Twitter%20Complaint%20Bot)
+- [Instragram Follower Bot](https://github.com/bicky007/100-python-projects/tree/main/Instagram%20Follower%20Bot)
 
 ## ⚙ Tools and Technologies will be Cover during project creation
 - Python 3
