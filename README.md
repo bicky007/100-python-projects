@@ -70,7 +70,9 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Internet Speed Twitter Complaint Bot](https://github.com/bicky007/100-python-projects/tree/main/Internet%20Speed%20Twitter%20Complaint%20Bot)
 - [Instragram Follower Bot](https://github.com/bicky007/100-python-projects/tree/main/Instagram%20Follower%20Bot)
 - [Data Entry Bot](https://github.com/bicky007/100-python-projects/tree/main/Data%20Entry%20Bot)
+- [Python Decorator](https://github.com/bicky007/100-python-projects/tree/main/Python%20Decorator)
 
+  
 ## ⚙ Tools and Technologies will be Cover during project creation
 - Python 3
 - PyCharm, Jupyter Notebook, Google Colab
