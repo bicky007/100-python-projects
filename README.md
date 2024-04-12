@@ -72,6 +72,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Data Entry Bot](https://github.com/bicky007/100-python-projects/tree/main/Data%20Entry%20Bot)
 - [Python Decorator](https://github.com/bicky007/100-python-projects/tree/main/Python%20Decorator)
 - [Number Guess High or Low](https://github.com/bicky007/100-python-projects/tree/main/Number%20Guess%20High%20or%20Low)
+- [Name Card Website](https://github.com/bicky007/100-python-projects/tree/main/Name%20Card%20Website)
 
   
 ## ⚙ Tools and Technologies will be Cover during project creation
