@@ -74,6 +74,10 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Number Guess High or Low](https://github.com/bicky007/100-python-projects/tree/main/Number%20Guess%20High%20or%20Low)
 - [Name Card Website](https://github.com/bicky007/100-python-projects/tree/main/Name%20Card%20Website)
 - [Blog Capstone Project Part-1](https://github.com/bicky007/100-python-projects/tree/main/Blog%20Capstone%20Project%20Part%201%20-%20Templating)
+- [Bootstrap Website](https://github.com/bicky007/100-python-projects/tree/main/Bootstrap%20Website)
+
+  ## 🏆 Advanced
+  - []()
 
   
 ## ⚙ Tools and Technologies will be Cover during project creation
