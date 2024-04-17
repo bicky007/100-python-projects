@@ -77,7 +77,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Bootstrap Website](https://github.com/bicky007/100-python-projects/tree/main/Bootstrap%20Website)
 
   ## 🏆 Advanced
-  - []()
+  - [Blog Capstone Project Part 2](https://github.com/bicky007/100-python-projects/tree/main/Blog%20Capstone%20Project%20Part%202)
 
   
 ## ⚙ Tools and Technologies will be Cover during project creation
