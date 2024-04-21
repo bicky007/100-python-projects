@@ -80,6 +80,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
   - [Blog Capstone Project Part 2](https://github.com/bicky007/100-python-projects/tree/main/Blog%20Capstone%20Project%20Part%202)
   - [FUnctional contact form](https://github.com/bicky007/100-python-projects/tree/main/Functional%20Contact%20Form)
   - [Flask-WTForms](https://github.com/bicky007/100-python-projects/tree/main/Flask-WTForms)
+  - [Coffee Wifi Project](https://github.com/bicky007/100-python-projects/tree/main/Coffee%20%26%20Wifi%20Project)
 
   
 ## ⚙ Tools and Technologies will be Cover during project creation
