@@ -83,6 +83,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Coffee Wifi Project](https://github.com/bicky007/100-python-projects/tree/main/Coffee%20%26%20Wifi%20Project)
 - [Virtual Bookshelf](https://github.com/bicky007/100-python-projects/tree/main/Virtual%20Bookshelf)
 - [My Top 10 Movies Website](https://github.com/bicky007/100-python-projects/tree/main/My%20Top%2010%20Movies%20Website)
+- [API with Restful Routing](https://github.com/bicky007/100-python-projects/tree/main/API%20with%20RESTful%20Routing)
 
   
 ## ⚙ Tools and Technologies will be Cover during project creation
