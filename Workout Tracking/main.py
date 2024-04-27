@@ -2,6 +2,7 @@ import requests
 from datetime import datetime
 import os
 
+#starting from herer
 APP_ID = os.environ['NUT_APP_ID']
 API_KEY = os.environ['NUT_API_KEY']
 GENDER = "male"
