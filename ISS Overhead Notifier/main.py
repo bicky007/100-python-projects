@@ -3,6 +3,7 @@ from datetime import datetime
 from time import sleep
 import smtplib
 
+#code starting from here
 MY_EMAIL = "phillipaipython@outlook.com"
 MY_PASSWORD = "password"
 TO_EMAIL = "phillipaipython@gmail.com"
