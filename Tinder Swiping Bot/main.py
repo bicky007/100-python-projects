@@ -6,6 +6,7 @@ import os
 from time import sleep
 from dotenv import load_dotenv
 
+#main code started from here
 load_dotenv(".env")
 MY_EMAIL = os.getenv("MY_EMAIL")
 MY_PASSWORD = os.getenv("MY_PASSWORD")
