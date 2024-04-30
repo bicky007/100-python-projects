@@ -35,3 +35,5 @@ for hour in range(12):
 if will_rain:
     message = "🌧 It's going to rain today, bring an umbrella with you."
     telegram_bot_send_text(message)
+
+#completed
