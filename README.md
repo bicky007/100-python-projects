@@ -88,6 +88,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Blog Capstone Project Part-4](https://github.com/bicky007/100-python-projects/tree/main/Blog%20Capstone%20Project%20Part%204)
 - [College Major vs Salary Analysis](https://github.com/bicky007/100-python-projects/tree/main/College%20Major%20vs.%20Salary%20Analysis)
 - [Programming Language Data Analysis](https://github.com/bicky007/100-python-projects/tree/main/Programming%20Language%20Data%20Analysis)
+- [Google Trend Analysis](https://github.com/bicky007/100-python-projects/tree/main/Google%20Trends%20Analysis)
 
   
 ## ⚙ Tools and Technologies will be Cover during project creation
