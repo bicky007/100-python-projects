@@ -89,6 +89,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [College Major vs Salary Analysis](https://github.com/bicky007/100-python-projects/tree/main/College%20Major%20vs.%20Salary%20Analysis)
 - [Programming Language Data Analysis](https://github.com/bicky007/100-python-projects/tree/main/Programming%20Language%20Data%20Analysis)
 - [Google Trend Analysis](https://github.com/bicky007/100-python-projects/tree/main/Google%20Trends%20Analysis)
+- [Android App Store Analysis](https://github.com/bicky007/100-python-projects/tree/main/Android%20App%20Store%20Analysis)
 
   
 ## ⚙ Tools and Technologies will be Cover during project creation
