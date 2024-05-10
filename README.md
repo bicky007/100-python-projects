@@ -90,7 +90,8 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Programming Language Data Analysis](https://github.com/bicky007/100-python-projects/tree/main/Programming%20Language%20Data%20Analysis)
 - [Google Trend Analysis](https://github.com/bicky007/100-python-projects/tree/main/Google%20Trends%20Analysis)
 - [Android App Store Analysis](https://github.com/bicky007/100-python-projects/tree/main/Android%20App%20Store%20Analysis)
-- [COmputation with Numpy](https://github.com/bicky007/100-python-projects/tree/main/Computation%20with%20NumPy)
+- [Computation with Numpy](https://github.com/bicky007/100-python-projects/tree/main/Computation%20with%20NumPy)
+- [Seaborn Regression Plot](https://github.com/bicky007/100-python-projects/tree/main/Seaborn%20Regression%20Plot)
 
   
 ## ⚙ Tools and Technologies will be Cover during project creation
