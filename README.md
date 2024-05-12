@@ -97,6 +97,8 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 
 ## ⚔ Professional Portfolio Projects
 
+- [Text to Morse Code Converter](https://github.com/bicky007/100-python-projects/tree/main/Text%20to%20Morse%20Code%20Converter)
+
   
 ## ⚙ Tools and Technologies will be Cover during project creation
 - Python 3
