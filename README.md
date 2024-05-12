@@ -92,6 +92,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Android App Store Analysis](https://github.com/bicky007/100-python-projects/tree/main/Android%20App%20Store%20Analysis)
 - [Computation with Numpy](https://github.com/bicky007/100-python-projects/tree/main/Computation%20with%20NumPy)
 - [Seaborn Regression Plot](https://github.com/bicky007/100-python-projects/tree/main/Seaborn%20Regression%20Plot)
+- [Handwashing Analysis](https://github.com/bicky007/100-python-projects/tree/main/Handwashing%20Analysis)
 
   
 ## ⚙ Tools and Technologies will be Cover during project creation
