@@ -93,6 +93,9 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Computation with Numpy](https://github.com/bicky007/100-python-projects/tree/main/Computation%20with%20NumPy)
 - [Seaborn Regression Plot](https://github.com/bicky007/100-python-projects/tree/main/Seaborn%20Regression%20Plot)
 - [Handwashing Analysis](https://github.com/bicky007/100-python-projects/tree/main/Handwashing%20Analysis)
+- [House Prices Analysis](https://github.com/bicky007/100-python-projects/tree/main/House%20Prices%20Analysis)
+
+## ⚔ Professional Portfolio Projects
 
   
 ## ⚙ Tools and Technologies will be Cover during project creation
