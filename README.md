@@ -101,6 +101,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Tic Tac Toe](https://github.com/bicky007/100-python-projects/tree/main/Tic%20Tac%20Toe)
 - [Image Watermarking Desktop App](https://github.com/bicky007/100-python-projects/tree/main/Image%20Watermarking%20Desktop%20App)
 - [Breakout](https://github.com/bicky007/100-python-projects/tree/main/Breakout)
+- [Coffee & Wifi Project(2)](https://github.com/bicky007/100-python-projects/tree/main/Coffee%20%26%20Wifi%20Project(2))
 
   
 ## ⚙ Tools and Technologies will be Cover during project creation
