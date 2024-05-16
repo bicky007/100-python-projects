@@ -100,6 +100,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Text to Morse Code Converter](https://github.com/bicky007/100-python-projects/tree/main/Text%20to%20Morse%20Code%20Converter)
 - [Tic Tac Toe](https://github.com/bicky007/100-python-projects/tree/main/Tic%20Tac%20Toe)
 - [Image Watermarking Desktop App](https://github.com/bicky007/100-python-projects/tree/main/Image%20Watermarking%20Desktop%20App)
+- [Breakout](https://github.com/bicky007/100-python-projects/tree/main/Breakout)
 
   
 ## ⚙ Tools and Technologies will be Cover during project creation
