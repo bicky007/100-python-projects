@@ -105,6 +105,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [To Do Agenda App](https://github.com/bicky007/100-python-projects/blob/main/To%20Do%20Agenda%20App/db.sqlite)
 - [Type Flow App](https://github.com/bicky007/100-python-projects/tree/main/Type%20Flow%20App)
 - [Text To speech](https://github.com/bicky007/100-python-projects/tree/main/Text%20to%20Speech)
+- [Image to color List](https://github.com/bicky007/100-python-projects/tree/main/Image%20to%20Color%20List)
 
   
 ## ⚙ Tools and Technologies will be Cover during project creation
