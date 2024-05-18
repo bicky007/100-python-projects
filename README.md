@@ -104,6 +104,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Coffee & Wifi Project(2)](https://github.com/bicky007/100-python-projects/tree/main/Coffee%20%26%20Wifi%20Project(2))
 - [To Do Agenda App](https://github.com/bicky007/100-python-projects/blob/main/To%20Do%20Agenda%20App/db.sqlite)
 - [Type Flow App](https://github.com/bicky007/100-python-projects/tree/main/Type%20Flow%20App)
+- [Text To speech](https://github.com/bicky007/100-python-projects/tree/main/Text%20to%20Speech)
 
   
 ## ⚙ Tools and Technologies will be Cover during project creation
