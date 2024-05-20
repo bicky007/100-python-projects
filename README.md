@@ -108,6 +108,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Image to color List](https://github.com/bicky007/100-python-projects/tree/main/Image%20to%20Color%20List)
 - [Amazon Canada Web Scaper](https://github.com/bicky007/100-python-projects/tree/main/Amazon%20Canada%20Web%20Scraper)
 - [Google Dinosaur Game Bot](https://github.com/bicky007/100-python-projects/tree/main/Google%20Dinosaur%20Game%20Bot)
+- [Custom API](https://github.com/bicky007/100-python-projects/tree/main/Custom%20API)
 
   
 ## ⚙ Tools and Technologies will be Cover during project creation
