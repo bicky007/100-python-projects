@@ -109,6 +109,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Amazon Canada Web Scaper](https://github.com/bicky007/100-python-projects/tree/main/Amazon%20Canada%20Web%20Scraper)
 - [Google Dinosaur Game Bot](https://github.com/bicky007/100-python-projects/tree/main/Google%20Dinosaur%20Game%20Bot)
 - [Custom API](https://github.com/bicky007/100-python-projects/tree/main/Custom%20API)
+- [An Online Shop](https://github.com/bicky007/100-python-projects/tree/main/An%20Online%20Shop)
 
   
 ## ⚙ Tools and Technologies will be Cover during project creation
