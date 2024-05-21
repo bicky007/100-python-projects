@@ -112,6 +112,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Custom API](https://github.com/bicky007/100-python-projects/tree/main/Custom%20API)
 - [An Online Shop](https://github.com/bicky007/100-python-projects/tree/main/An%20Online%20Shop)
 - [Space Race Data](https://github.com/bicky007/100-python-projects/tree/main/Space%20Race%20Data)
+- [Death Involving Police in the US](https://github.com/bicky007/100-python-projects/tree/main/Deaths%20Involving%20Police%20in%20the%20US)
   
 
   
