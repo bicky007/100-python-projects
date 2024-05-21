@@ -111,6 +111,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Google Dinosaur Game Bot](https://github.com/bicky007/100-python-projects/tree/main/Google%20Dinosaur%20Game%20Bot)
 - [Custom API](https://github.com/bicky007/100-python-projects/tree/main/Custom%20API)
 - [An Online Shop](https://github.com/bicky007/100-python-projects/tree/main/An%20Online%20Shop)
+- [Space Race Data](https://github.com/bicky007/100-python-projects/tree/main/Space%20Race%20Data)
   
 
   
