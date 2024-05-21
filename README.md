@@ -63,6 +63,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [HTML Website using CSS](https://github.com/bicky007/100-python-projects/tree/main/HTML%20Website%20using%20CSS)
 - [Web Scraping](https://github.com/bicky007/100-python-projects/tree/main/Web%20Scraping)
 - [Music Time Machine](https://github.com/bicky007/100-python-projects/tree/main/Music%20Time%20Machine)
+- [Percentage Calculator](https://github.com/bicky007/100-python-projects/tree/main/Percentage%20Calculator)
 - [Amazon Price Tracker](https://github.com/bicky007/100-python-projects/tree/main/Amazon%20Price%20Tracker)
 - [Cookie Clicker Bot](https://github.com/bicky007/100-python-projects/tree/main/Cookie%20Clicker%20Bot)
 - [linkedin Job Application Bot](https://github.com/bicky007/100-python-projects/tree/main/Linkedin%20Job%20Application%20Bot)
@@ -110,6 +111,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Google Dinosaur Game Bot](https://github.com/bicky007/100-python-projects/tree/main/Google%20Dinosaur%20Game%20Bot)
 - [Custom API](https://github.com/bicky007/100-python-projects/tree/main/Custom%20API)
 - [An Online Shop](https://github.com/bicky007/100-python-projects/tree/main/An%20Online%20Shop)
+  
 
   
 ## ⚙ Tools and Technologies will be Cover during project creation
